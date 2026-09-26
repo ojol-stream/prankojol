@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ojol-stream.github.io/prankojol/sitemap.xml
